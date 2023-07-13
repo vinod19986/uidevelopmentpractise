@@ -1,0 +1,7 @@
+git clone "url"
+git status 
+git add .
+git commit -m "v1"
+git push
+git fetch 
+git pull
